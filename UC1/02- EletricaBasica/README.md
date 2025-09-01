@@ -1,0 +1,1 @@
+diretorio conteudo
