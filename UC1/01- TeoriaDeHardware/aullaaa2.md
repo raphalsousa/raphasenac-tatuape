@@ -32,4 +32,11 @@
 
 <img width="1200" height="1200" alt="image" src="https://github.com/user-attachments/assets/c8b332f7-1985-454a-9629-d230432a2252"/>
 
-
+**Quando o VRM não dá conta de alimentar o processador, ele esquenta e o sistema desliga.
+→ Esse fenômeno é chamado de throttling.
+Se o VRM atingir 120 °C a 140 °C, ativa-se uma trava de segurança.
+DrMOS é mais eficiente e esquenta menos.
+MOSFETs são os componentes usados no VRM para regular a energia.
+📌 Resumo:
+O VRM é responsável por fornecer a energia correta para o processador e memória.
+Se ele não for eficiente ou estiver sobrecarregado, pode superaquecer e comprometer a estabilidade do sistema.**
