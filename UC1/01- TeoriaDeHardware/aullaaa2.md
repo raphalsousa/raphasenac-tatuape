@@ -37,6 +37,7 @@
 Se o VRM atingir 120 °C a 140 °C, ativa-se uma trava de segurança.
 DrMOS é mais eficiente e esquenta menos.
 MOSFETs são os componentes usados no VRM para regular a energia.
+
 📌 Resumo:
 O VRM é responsável por fornecer a energia correta para o processador e memória.
 Se ele não for eficiente ou estiver sobrecarregado, pode superaquecer e comprometer a estabilidade do sistema.**
