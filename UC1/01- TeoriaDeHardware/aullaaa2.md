@@ -1,6 +1,4 @@
-# Componentes da Placa-Mãe
-
-- **Soquete do processador**
+**Soquete do processador**
 - **Conector de energia**
 - **VRM (Módulo Regulador de Voltagem)**
 - **Conectores para ventoinhas/bombas**
@@ -9,6 +7,24 @@
 - **Memória RAM**
 - **Fornece energia para toda a placa-mãe**
 - **Conector para portas USB**
+- **Conectores para ventoinhas do gabinete**
+- **Conectores para SSD e HDD**
+- **Conectores do painel frontal**
+- **Conector Tipo C – frontal do gabinete**
+- **Módulo de Plataforma Confiável (TPM)**
+- **Conectores de áudio frontal**
+- **(não identificado)**
+- **Chipset da placa-mãe**
+- **Firmware da placa-mãe (BIOS/UEFI)**
+- **Slot PCI Express x16**  
+  Para placa de vídeo, reforçado em metal.
+- **Slot PCI Express x1**  
+  Expansão menor – placa de som, rede, etc.
+- **Slot PCI Express x4**  
+  Expansão para SSDs NVMe adicionais, placas de captura, etc.
+- **VRM (Voltage Regulator Module)**  
+  (Repetido, mas incluído conforme listado)
+
 
 
 
