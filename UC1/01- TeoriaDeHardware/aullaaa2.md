@@ -1,29 +1,25 @@
-# Componentes da Placa-Mãe
-
-- **CONECTOR DE ENERGIA**
-- **Módulos reguladores de voltagem da CPU**
-- **Conectores para CPU FAN, AIO pump, sensores de temperatura etc.**
-- **Conectores de LED**
-- **LEDs indicadores de diagnóstico (CPU, DRAM, VGA, BOOT)**  
-  Úteis para detectar erros durante o POST.
-- **Quatro slots para instalação de módulos de memória RAM**
-- **Fornece energia para toda a placa-mãe**
-- **Conector para portas USB 3.0 do gabinete**
-- **Usados para conectar HDs e SSDs SATA**
-- **Onde você conecta os fios do gabinete:**  
-  Botão power, reset, LEDs, buzzer, etc.
-- **Conectores internos para portas USB 2.0 frontais do gabinete**
-- **Usado para ligar os conectores de áudio do painel frontal do gabinete**
-- **Conector para TPM (Trusted Platform Module) ou outras funções específicas**
-- **Conector opcional para emitir sinais sonoros no POST (beeps de diagnóstico)**
-- **Slots para instalação de SSDs NVMe M.2 (com ou sem dissipador)**
-- **Chipset da placa-mãe (ex: B650)**  
-  Responsável por gerenciar comunicação entre CPU, memória, periféricos etc.
-- **Permite atualizar a BIOS da placa-mãe sem precisar de CPU ou memória instalada**
-- **Slot principal para instalação da placa de vídeo (GPU)**
-- **Slot para placas de expansão menores (como placas de som, Wi-Fi etc.)**
-- **Slot PCIe adicional:**  
-  Pode ser x16 fisicamente, mas funciona como x4 eletricamente.
+Soquete do processador
+Conector de energia
+VRM (Módulo Regulador de Voltagem)
+Conectores para ventoinhas/bombas
+Conectores de LED
+Conector de energia para identificar
+Memória RAM
+Fornece energia para toda a placa-mãe
+Conector para portas USB
+Conectores para ventoinhas do gabinete
+Conectores para SSD e HDD
+Conectores do painel frontal
+Conector Tipo C – frontal do gabinete
+Módulo de Plataforma Confiável (TPM)
+Conectores de áudio frontal
+(não identificado)
+Chipset da placa-mãe
+Firmware da placa-mãe (BIOS/UEFI)
+Slot PCI Express x16 (para placa de vídeo, reforçado em metal)
+Slot PCI Express x1 (expansão menor – placa de som, rede, etc.)
+Slot PCI Express x4 (expansão para SSDs NVMe adicionais, placas de captura, etc.)
+VRM (Voltage Regulator Module)
 
 
-<img width="1063" height="755" alt="Capturar" src="https://github.com/user-attachments/assets/889a48ad-4068-47e9-b157-e5dfd640f0e9" />
+/assets/889a48ad-4068-47e9-b157-e5dfd640f0e9" />
