@@ -25,7 +25,4 @@
 - **VRM (Voltage Regulator Module)**  
   (Repetido, mas incluído conforme listado)
 
-
-
-
-/assets/889a48ad-4068-47e9-b157-e5dfd640f0e9" />
+<img width="606" height="607" alt="image" src="https://github.com/user-attachments/assets/bf2a7e86-6ee5-424a-a303-a5d58feb6d7a" />
