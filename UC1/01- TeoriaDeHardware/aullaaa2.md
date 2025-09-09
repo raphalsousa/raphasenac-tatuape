@@ -1,6 +1,6 @@
-CPU
 CONECTOR DE ENERGIA
-Módulos reguladores de voltagem
+Módulos rCPU
+eguladores de voltagem
 Conectores para CPU FAN, AIO pump, sensores de temperatura etc.
 conectores de LED
 LEDs indicadores de diagnóstico (CPU, DRAM, VGA, BOOT). Úteis para detectar erros durante o POST.
