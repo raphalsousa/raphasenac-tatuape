@@ -3,7 +3,7 @@
 - **VRM (Módulo Regulador de Voltagem)**
 - **Conectores para ventoinhas/bombas**
 - **Conectores de LED**
-- **Conector de energia para identificar**
+- **the bug LED ou DEBUG LED**
 - **Memória RAM**
 - **Fornece energia para toda a placa-mãe**
 - **Conector para portas USB**
@@ -41,3 +41,18 @@ MOSFETs são os componentes usados no VRM para regular a energia.
 📌 Resumo:
 O VRM é responsável por fornecer a energia correta para o processador e memória.
 Se ele não for eficiente ou estiver sobrecarregado, pode superaquecer e comprometer a estabilidade do sistema.**
+
+stock do jeito que ele vem de fabrica
+
+
+
+AULA 11/09
+<img width="2400" height="2400" alt="image" src="https://github.com/user-attachments/assets/c4f2b670-8b2f-451e-86c5-de7b0df99483" />
+
+
+PWM-conectores da FAN para ela girar
+RGB 12v- 4 pinos
+ARGB 5v- 3 pinos 
+PWM- conectores da FAN para ela girar RGB 12v- 4 pinos ARGB 5v- 3 pinos quando exite um speaker eles faz certos sons Bipes longos e espaçados podem indicar problema na memoria RAM Bipes rapidos sem espaços pode indicar problema na placa de video POST- alto teste de inicialização AS USB azuis (3.0) são mais rapidas, já as pretas (2.0) são mais devagar
+
+
