@@ -47,6 +47,7 @@ stock do jeito que ele vem de fabrica
 
 
 AULA 11/09
+NOME DOS COMPONENTES DA PLACA ABAIXO;
 <img width="2400" height="2400" alt="image" src="https://github.com/user-attachments/assets/c4f2b670-8b2f-451e-86c5-de7b0df99483" />
 
 
