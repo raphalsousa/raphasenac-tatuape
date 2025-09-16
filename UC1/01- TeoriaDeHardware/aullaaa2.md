@@ -109,4 +109,5 @@ B- intermediario
 X-topo de limha
 
 Placa mae da intel
-H-
+H- entrada
+2- topo de linha
