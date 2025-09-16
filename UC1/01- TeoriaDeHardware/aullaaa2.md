@@ -97,5 +97,16 @@ PWM- conectores da FAN para ela girar RGB 12v- 4 pinos ARGB 5v- 3 pinos quando e
 14-
 15-
 16-
-17-
+17
+18-
+19-
+20-
 
+AULA DO DIA 16/09
+placa mae da AMD 
+A-entrada
+B- intermediario 
+X-topo de limha
+
+Placa mae da intel
+H-
