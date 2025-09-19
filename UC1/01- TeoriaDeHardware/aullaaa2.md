@@ -111,3 +111,11 @@ X-topo de limha
 Placa mae da intel
 H- entrada
 2- topo de linha
+
+AULA DO DIA 19/09
+QUANDO TERMINA COM 50 E A MAIS BASICA
+QUANDO TERMINA COM 60 E A INTERMEDIARIA
+QUANDO TERMINA COM 70 E INTERMEDIARIA PARA TOP
+
+pesquisa; modelo; Placa de Vídeo Palit NVIDIA GeForce RTX 5060 Infinity 3, 8GB, GDDR7, DLSS, Ray Tracing, NE75060019P1-GB2063S
+
