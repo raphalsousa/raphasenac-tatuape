@@ -1,3 +1,5 @@
+![GitHub License](https://img.shields.io/github/license/raphalsousa/robo-desvia?style=flat)
+
 # 📘 Curso Técnico em Informática - Senac Tatuapé
 
 Bem-vindo ao repositório de estudos e atividades do **Curso Técnico em Informática do Senac Tatuapé**.  
